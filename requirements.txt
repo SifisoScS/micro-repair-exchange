@@ -1,0 +1,4 @@
+# requirements.txt
+streamlit==1.53.1
+firebase-admin==7.1.0
+pytest==9.0.2
